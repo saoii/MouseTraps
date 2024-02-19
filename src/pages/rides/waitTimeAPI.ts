@@ -63,7 +63,7 @@ const waitTimeAPI = {
         'Content-Type': 'application/json; charset=utf-8',
         Accept: 'application/json',
         credentials: 'same-origin', //include, same-origin
-        'Access-Control-Allow-Origin': 'http://localhost:3000',
+        'Access-Control-Allow-Origin': 'https://master.d14kecb1bteqvj.amplifyapp.com/',
         'X-Content-Type-Options': 'nosniff',
       },
     })
